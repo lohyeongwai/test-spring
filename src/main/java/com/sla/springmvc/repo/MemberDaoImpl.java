@@ -11,7 +11,9 @@ import com.sla.springmvc.domain.Member;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
-
+/*
+ * test
+ */
 @Repository
 @Transactional
 public class MemberDaoImpl implements MemberDao
