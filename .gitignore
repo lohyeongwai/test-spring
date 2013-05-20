@@ -1,0 +1,9 @@
+target/
+/bin
+/org
+# /resources
+/test/test.*
+HANDLERS_vha_ctb*.jar
+.classpath 
+*.swp
+
